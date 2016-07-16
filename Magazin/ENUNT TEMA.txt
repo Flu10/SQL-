@@ -1,0 +1,59 @@
+PART 1 (1p.)
+A. Enuntarea problemei de rezolvat in domeniul ales 
+Gestiunea activitatii unui magazin. Se doreste sa se afiseze produsele care au un anumit producator, 
+sa se stearga din BD produsele expirate, sa se modifice pretul produselor, si afisarea unor produse dupa un 
+anumit criteriu 
+B. Modelarea solutiei 
+
+PART 2 (1p.)
+C. Crearea claselor (minim 3 clase), clasele sa nu se mapeze pe tabele din schema dbo, tabelele sa nu fie pluralizate 
+D. In solutie sa existe minim 1 camp care sa aiba unul din urmatoarele tipuri de date: int?, decimal?, string, DateTime? 
+E. Existenta conventiilor de required conform modelarii solutiei de la punctul B si a dimensiunilor maxime (minim 1 din fiecare)
+F. Crearea primei migrari care sa contina punctele C-E si implicit crearea bazei de date 
+
+PART 3 (1p.)
+G. Crearea relatiilor (cel putin 1 relatie 1-n si o relatie n-n), cu proprietati navigabile si cu colectii cu InverseProperty (ca la curs) 
+H. Incorporarea unui nomenclator in aplicatie, cu FK dintr-una dintre tabele catre el 
+I. Popularea nomenclatorului din Seed 
+J. Crearea migrarii numarul 2 care sa contina punctele G-I 
+
+PART 4 (1p.)
+K. Conventii la nivel de aplicatie prin care toate tipurile decimal -> maxim (10,2), string -> maxim (150) 
+L. Crearea a cel putin 2 indexi simplii, dintre care unul sa fie index de unicitate iar celalalt sa fie un simplu index 
+M. Crearea unei proprietati intr-una din clasele atasate la context, care sa nu ajunga in tabela corespunzatoare 
+N. Un index unic compus (aici aveti exemplu in clasa Location.cs de la cursul de ORM)
+O. Crearea migrarii numarul 3 care sa contina punctele K-N 
+
+PART 5 (1p.) 
+	-- pentru cele patru puncte de mai jos ganditi si enuntati 4 probleme de rezolvat in contextul temei alese.
+	-- spre exemplu, la tema cu parcarile, adaugarea putea insemna vizita unei masini, functia AddCar() { }
+	-- fara un contex util aplicatiei punctele P, Q, R si S nu vor fi punctate
+P. Minim 1 Read 
+Q. Minim 1 Insert si un Update 
+R. Minim 1 Delete din aplicatie 
+S. Crearea si apelarea unei proceduri stocate
+
+
+
+Cerinte obligatorii (fara de care nu punctam anumite parti):
+I. Existenta unor scripturi de inserare date in tabele (date de test) - neexistand nu se puncteaza partea a 5-a
+II. Fara erori de compilare - daca exista erori de compilare nu se puncteaza decat prima parte
+III. Functionarea rularii migrarilor existente - daca migrarile nu ruleaza corespunzator nu se puncteaza partile ulterioare migrarii care genereaza erori
+IV. Nerespectarea domeniului ales duce la nepunctarea punctului A + penalizarea cu 20% a notei finale
+V. Respectarea deadline-ului (Sambata 23:59) - 0 puncte daca trimiterea temei nu respecta deadline-ul
+
+Domenii:
+Adela Hintiu		Muzeu
+Adrian Mure?eanu	Hotel
+Alexandra Oprea		Industrie auto
+Alin Cri?u		Agentie de turism
+Ana Tiron		Agentie matrimoniala
+Aurelian Mirica		Spital
+Claudiu Oro?anu		Fotbal
+Gabriel Ioni?a		Industria muzicala
+George Cioroiu		Facultate
+Iuliana Bere?		Ferma
+Marian Flutura?		Magazin
+Radu P?rvulescu		Agentie imobiliara
+Rare? Bogdan		Industrie cinematografica
+?tefan Frigioiu		Computer science

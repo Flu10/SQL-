@@ -1,0 +1,15 @@
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\bin\Debug\Magazin.exe.config
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\bin\Debug\Magazin.exe
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\bin\Debug\Magazin.pdb
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\bin\Debug\EntityFramework.dll
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\bin\Debug\EntityFramework.xml
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\obj\Debug\Magazin.csprojResolveAssemblyReference.cache
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\obj\Debug\Magazin.exe
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\obj\Debug\Magazin.pdb
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\obj\Debug\Magazin.Migrations.FirstMigration.resources
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\obj\Debug\Magazin.csproj.GenerateResource.Cache
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\obj\Debug\Magazin.Migrations.SecondMigration.resources
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\obj\Debug\Magazin.Migrations.ThirdMigration.resources
+D:\Munca\Teamnet\DotNetC#\TemaCorectaMagazin\Magazin\Magazin\obj\Debug\Magazin.Migrations.FourthMigration.resources
